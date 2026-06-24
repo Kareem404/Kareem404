@@ -1,2 +1,2 @@
 ## Hi there 👋
-I am Karim, a Computer Scinece graduate from AUS in June 2025 with interests in AI and Data Science ;)
+I am Karim, an AI/Ml Engineer and researcher - I have research interests in the field of NLP and Computer Vision
