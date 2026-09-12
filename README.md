@@ -1,1 +1,1 @@
-> "Simplicity is a prerequisite for reliability." — Dijkstra
+> *Simplicity is a prerequisite for reliability.* — Dijkstra
